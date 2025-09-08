@@ -13,9 +13,9 @@ I'm a **student** and passionate **backend developer** with a keen interest in b
 Here are a few of my favorite repositories:
 - [shrnk](https://github.com/RajNair06/shrnk): URL shortener with smart features.
 - [hdp](https://github.com/RajNair06/hdp): HTTP Debugging Proxy.
-- [raj-nair-backend-interview-challenge](https://github.com/RajNair06/raj-nair-backend-interview-challenge): Real-world backend solutions.
+
 - [movies-app-landing-page](https://github.com/RajNair06/movies-app-landing-page): Frontend landing page for a movie app.
-- [news-project](https://github.com/RajNair06/news-project): Aggregating and displaying news efficiently.
+- [news-project](https://github.com/RajNair06/news-project): basic CRUD news app with Auth
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/raj-n06/)
