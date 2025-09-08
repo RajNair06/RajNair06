@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Raj Nair 👋
 
-<!--
-**RajNair06/RajNair06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm a **student** and passionate **backend developer** with a keen interest in building scalable web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Top Skills
+- **Frontend:** HTML, CSS, Tailwind, Bootstrap, JavaScript
+- **Backend:** Python, Django, Flask
+- **Data Science:** Numpy, Pandas, Matplotlib
+- **Databases:** PostgreSQL, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+Here are a few of my favorite repositories:
+- [shrnk](https://github.com/RajNair06/shrnk): URL shortener with smart features.
+- [hdp](https://github.com/RajNair06/hdp): Handy Data Processor for data wrangling.
+- [raj-nair-backend-interview-challenge](https://github.com/RajNair06/raj-nair-backend-interview-challenge): Real-world backend solutions.
+- [movies-app-landing-page](https://github.com/RajNair06/movies-app-landing-page): Frontend landing page for a movie app.
+- [news-project](https://github.com/RajNair06/news-project): Aggregating and displaying news efficiently.
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/raj-n06/)
+- [X (Twitter)](https://x.com/RajNair06)
+
+---
+
+> “Learning never exhausts the mind.” — Leonardo da Vinci
+
+Thanks for stopping by! Feel free to explore my projects or reach out for collaboration.
