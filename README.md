@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnair06&label=Profile%20views&color=0e75b6&style=flat" alt="rajnair06" /> </p>
 
-- 🔭 I’m currently working on [LearnFlow - a personalized learning tracker API ](https://github.com/RajNair06/learnflow-backend)
+- 🔭 I’m currently working on [Tradeforge - a Live Trading Simulator  ](https://github.com/RajNair06/tradeforge_web)
 
 - 🌱 I’m currently learning **Backend Development in depth**
 
