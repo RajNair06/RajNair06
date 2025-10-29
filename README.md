@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nairraj311@gmail.com**
 
-- 📄 Know about my experiences from my  [Resume](https://drive.google.com/file/d/18Ve94w1qpfd6XP8Cfr0kFFCzKT-_1LXG/view)
+- 📄 Know about my experiences from my  [Resume](https://drive.google.com/file/d/1TgSu_vNI7uLuO-f8EFzmMrf3Ox1MMbJT/view?usp=sharing)
 
 - ⚡ Fun fact **Learning sticks when I do it**
 
